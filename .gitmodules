@@ -1,0 +1,16 @@
+[submodule "xdotool"]
+	path = xdotool
+	url = https://github.com/jordansissel/xdotool.git
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json.git
+[submodule "libraw"]
+	path = libraw
+	url = https://github.com/LibRaw/LibRaw.git
+[submodule "beast"]
+	path = beast
+	url = https://github.com/boostorg/beast.git
+[submodule "buildroot"]
+	path = buildroot
+	url = git://git.buildroot.net/buildroot
+	branch = 2017.05.x
